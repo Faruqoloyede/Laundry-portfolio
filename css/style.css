@@ -42,3 +42,22 @@ nav {
 .feat_col {
     border-radius: 10px;
 }
+
+.footer {
+    background-color: #13274F;
+}
+
+address {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.social {
+    padding: 10px;
+}
+
+.footer p {
+    font-weight: bold;
+    margin-top: 20px;
+    font-size: 18px;
+}
